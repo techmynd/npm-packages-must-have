@@ -1,0 +1,11 @@
+commands
+
+> node pkg-bcrypt.js
+> node pkg-jwt-simple.js
+> node pkg-jwt-with-config.js
+> node pkg-moment.js
+> node pkg-node-config.js
+> node pkg-request-for-backend.js
+> node pkg-slug.js
+> node pkg-uuid.js
+
